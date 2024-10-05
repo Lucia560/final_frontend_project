@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import topplista_toplay from '@/components/topplista_toplay.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <topplista_toplay/>
   </main>
 </template>
