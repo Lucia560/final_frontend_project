@@ -1,0 +1,787 @@
+{
+  "books": [
+    {
+      "id": "J_18AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Crime and Punishment",
+        "authors": [
+          "Fyodor Dostoyevsky"
+        ],
+        "description": "A man must endure relentless physical and mental punishments as retribution for his act of murder.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=J_18AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "200 SEK",
+        "news": false,
+        "amount": 9,
+        "favorite": false
+      }
+    },
+    {
+      "id": "icKmd-tlvPMC",
+      "volumeInfo": {
+        "title": "Journey to the Center of the Earth",
+        "authors": [
+          "Jules Verne"
+        ],
+        "description": "The intrepid Professor Lindenbrock embarks upon the strangest expedition of the nineteenth century: a journey down an extinct Icelandic volcano to the Earth’s very core. In his quest to penetrate the planet’s primordial secrets, the geologist - together with his quaking nephew Axel and their devoted guide, Hans — discovers an astonishing subterranean menagerie of prehistoric proportions.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=icKmd-tlvPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "150 SEK",
+        "news": false,
+        "amount": 8,
+        "favorite": false
+      }
+    },
+    {
+      "id": "KVGd-NabpW0C",
+      "volumeInfo": {
+        "title": "The Plague",
+        "authors": [
+          "Albert Camus"
+        ],
+        "description": "A haunting tale of human resilience and hope in the face of unrelieved horror, Albert Camus' iconic novel about an epidemic ravaging the people of a North African coastal town is a classic of twentieth-century literature.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=KVGd-NabpW0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "200 SEK",
+        "news": false,
+        "amount": 4,
+        "favorite": false
+      }
+    },
+    {
+      "id": "ORyo8qAA-CQC",
+      "volumeInfo": {
+        "title": "The Odyssey of Homer",
+        "authors": [
+          "Homer"
+        ],
+        "description": "Homer's epic chronicle of the Greek hero Odysseus' journey home from the Trojan War has inspired writers from Virgil to James Joyce. Odysseus survives storm and shipwreck, the cave of the Cyclops and the isle of Circe, the lure of the Sirens' song and a trip to the Underworld, only to find his most difficult challenge at home.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=ORyo8qAA-CQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "180 SEK",
+        "news": false,
+        "amount": 7,
+        "favorite": false
+      }
+    },
+    {
+      "id": "6vGiDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "description": "The Picture of Dorian Gray is the only published novel by Oscar Wilde, appearing as the lead story in Lippincott's Monthly Magazine on 20 June 1890, printed as the July 1890 issue.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=6vGiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "140 SEK",
+        "news": false,
+        "amount": 5,
+        "favorite": false
+      }
+    },
+    {
+      "id": "3oSqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Oliver Twist",
+        "authors": [
+          "Charles Dickens"
+        ],
+        "description": "In a ramshackle workhouse of a parish in England, a baby boy was born to a woman who died in childbirth. The boy was named OLIVER TWIST. He spent a sad childhood in abject misery in various workhouses.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=3oSqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "130 SEK",
+        "news": false,
+        "amount": 6,
+        "favorite": false
+      }
+    },
+    {
+      "id": "L88qEAAAQBAJ",
+      "volumeInfo": {
+        "title": "SHERLOCK HOLMES - THE VALLEY OF FEAR",
+        "authors": [
+          "ARTHUR CONAN DOYLE"
+        ],
+        "description": "SHERLOCK HOLMES – THE VALLEY OF FEAR, is the 4th and final novel written by Arthur Conan Doyle. This book is complete, unabridged and was originally published in 1915.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=L88qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "110 SEK",
+        "news": false,
+        "amount": 2,
+        "favorite": false
+      }
+    },
+    {
+      "id": "MZyXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mohini Theevu",
+        "authors": [
+          "Kalki"
+        ],
+        "description": "A Writer who was forced to take a trip to India from Burma due to the outbreak of war. Unfortunately, or fortunately, he gets to travel in an old crowded ship.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=MZyXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "90 SEK",
+        "news": false,
+        "amount": 1,
+        "favorite": false
+      }
+    },
+    {
+      "id": "oNY0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "There There",
+        "authors": [
+          "Tommy Orange"
+        ],
+        "description": "A wondrous and shattering award-winning novel that follows twelve characters from Native communities: all traveling to the Big Oakland Powwow, all connected to one another in ways they may not yet realize.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "160 SEK",
+        "news": false,
+        "amount": 9,
+        "favorite": false
+      }
+    },
+    {
+      "id": "WK_mPzxMFfoC",
+      "volumeInfo": {
+        "title": "Sunset Park",
+        "authors": [
+          "Paul Auster"
+        ],
+        "description": "Paul Auster's Sunset Park is set in the sprawling flatlands of Florida, where twenty-eight-year-old Miles is photographing the last lingering traces of families who have abandoned their houses due to debt or foreclosure.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=WK_mPzxMFfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "190 SEK",
+        "news": false,
+        "amount": 10,
+        "favorite": false
+      }
+    },
+    {
+      "id": "2sKCc9N27qoC",
+      "volumeInfo": {
+        "title": "Robinson Crusoe",
+        "authors": [
+          "Daniel Defoe"
+        ],
+        "description": "Storm, shipwreck, pirates, and mutiny are the timeless themes of this recreated classic. The action-packed story lines retain all the impact of the author's own words, while photos and narrative illustrations help readers to absorb the full flavor of the original novel. Full color. Copyright © Libri GmbH. All rights reserved.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=2sKCc9N27qoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "120 SEK",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "JKe8QgAACAAJ",
+      "volumeInfo": {
+        "title": "Nineteen Eighty-four",
+        "authors": [
+          "George Orwell"
+        ],
+        "description": "George Orwell's dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century, published with an introduction by Ben Pimlott in Penguin Modern Classics.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=JKe8QgAACAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "150 SEK",
+        "news": false,
+        "amount": 8,
+        "favorite": false
+      }
+    },
+    {
+      "id": "gu78JKzMB2cC",
+      "volumeInfo": {
+        "title": "David Balfour",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "description": "The further adventures of David Balfour in which he continues his friendship with Alan Breck Stewart and support of the Scottish highlanders' cause, travels abroad to complete his education, and finds romance.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=gu78JKzMB2cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "180 SEK",
+        "news": false,
+        "amount": 7,
+        "favorite": false
+      }
+    },
+    {
+      "id": "IwpuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Treasure Island",
+        "authors": [
+          "Robert Louis Stevenson"
+        ],
+        "description": "In graphic novel format, young Jim Hawkins discovers an old treasure map and sets out on a harrowing voyage to a faraway island.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=IwpuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "140 SEK",
+        "news": false,
+        "amount": 6,
+        "favorite": false
+      }
+    },
+    {
+      "id": "zCSaAAAAIAAJ",
+      "volumeInfo": {
+        "title": "A Midsummer Night's Dream",
+        "authors": [
+          "William Shakespeare"
+        ],
+        "description": "Having presented the Bard's works in accurate and accessible texts for over 35 years, The Folger Shakespeare Library now offers new editions, based on the best early printed version of each play.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=zCSaAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "110 SEK",
+        "news": false,
+        "amount": 2,
+        "favorite": false
+      }
+    },
+    {
+      "id": "0w16ZLMkXLQC",
+      "volumeInfo": {
+        "title": "Falling",
+        "authors": [
+          "Anne Provoost"
+        ],
+        "description": "A powerful, disturbing book about racial tensions, intolerance, and the seductive appeal of right-wing extremism.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=0w16ZLMkXLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "160 SEK",
+        "news": false,
+        "amount": 9,
+        "favorite": false
+      }
+    },
+    {
+      "id": "AzSPirLE9l4C",
+      "volumeInfo": {
+        "title": "Lord Edgware Dies",
+        "authors": [
+          "Agatha Christie"
+        ],
+        "description": "John Moffatt stars as the great Belgian detective in this BBC Radio full-cast dramatization.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=AzSPirLE9l4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "190 SEK",
+        "news": false,
+        "amount": 10,
+        "favorite": false
+      }
+    },
+    {
+      "id": "BjqT3okyFrkC",
+      "volumeInfo": {
+        "title": "Harbour",
+        "authors": [
+          "John Ajvide Lindqvist"
+        ],
+        "description": "On a winter trip home to the island of Domarö, Anders and Cecilia take their six-year-old daughter Maja across the ice to visit the lighthouse at Gåvasten. And Maja disappears. Leaving not even a footprint in the snow. Two years later, alone and more or less permanently drunk, Anders returns to Domarö to confront his despair.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=BjqT3okyFrkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "150 SEK",
+        "news": false,
+        "amount": 5,
+        "favorite": false
+      }
+    },
+    {
+      "id": "g40bVuX9wmYC",
+      "volumeInfo": {
+        "title": "The Da Vinci Code",
+        "authors": [
+          "Dan Brown"
+        ],
+        "description": "Robert Langdon, Harvard Professor of symbology, receives an urgent late-night call while in Paris: the curator of the Louvre has been murdered. Alongside the body is a series of baffling ciphers. Langdon and a gifted French cryptologist, Sophie Neveu, are stunned to find a trail that leads to the works of Da Vinci - and further.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=g40bVuX9wmYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "120 SEK",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "nt2gYevSZrMC",
+      "volumeInfo": {
+        "title": "The Harbinger",
+        "authors": [
+          "Jonathan Cahn"
+        ],
+        "description": "An anonymous man has received nine seals from The Prophet, with each seal containing mysterious sayings and prophecies from the Book of Isaiah about America's recent past and possible future destruction.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=nt2gYevSZrMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "140 SEK",
+        "news": false,
+        "amount": 4,
+        "favorite": false
+      }
+    },
+    {
+      "id": "LlV2CwAAQBAJ",
+      "volumeInfo": {
+        "title": "He Will Be My Ruin",
+        "authors": [
+          "K.A. Tucker"
+        ],
+        "description": "K.A. Tucker makes her suspense debut with this sexy, heart-pounding story of a young woman determined to find justice after her best friend's death.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=LlV2CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "160 SEK",
+        "news": false,
+        "amount": 6,
+        "favorite": false
+      }
+    },
+    {
+      "id": "L83TtpJ57-wC",
+      "volumeInfo": {
+        "title": "The St. Zita Society",
+        "authors": [
+          "Ruth Rendell"
+        ],
+        "description": "From three-time Edgar Award-winning mystery writer Ruth Rendell comes a captivating and expertly plotted tale of residents and servants on one block of a posh London street--and the deadly ways their lives intertwine.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=L83TtpJ57-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "110 SEK",
+        "news": false,
+        "amount": 2,
+        "favorite": false
+      }
+    },
+    {
+      "id": "yRSoAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Eleventh Commandment",
+        "authors": [
+          "Jeffrey Archer"
+        ],
+        "description": "Connor Fitzgerald has an impressive resume. Military hero. Devoted family man. Servant of his country--as an assassin. Just as he's about to put his twenty-eight-year career at the CIA behind him, he comes up against the most dangerous enemy he's ever faced: His own boss, Helen Dexter.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=yRSoAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "130 SEK",
+        "news": false,
+        "amount": 5,
+        "favorite": false
+      }
+    },
+    {
+      "id": "naghRvxjrfIC",
+      "volumeInfo": {
+        "title": "Brother Odd",
+        "authors": [
+          "Dean Koontz"
+        ],
+        "description": "Leaving the small desert town where he has spent his life, Odd Thomas, a hero who lives between the living and the dead, seeks the solitude of an isolated monastery, but he soon finds himself confronting a killer stalking his sanctuary's halls.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=naghRvxjrfIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "140 SEK",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "Nq5aAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Testament",
+        "authors": [
+          "John Grisham"
+        ],
+        "description": "A suicidal billionaire, a burnt-out Washington litigator, and a woman who has forsaken technology to work in the wilds of Brazil are all brought together by an astounding mystery of the testament.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=Nq5aAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "160 SEK",
+        "news": false,
+        "amount": 7,
+        "favorite": false
+      }
+    },
+    {
+      "id": "UGUahZnpa0MC",
+      "volumeInfo": {
+        "title": "The Visitor",
+        "authors": [
+          "Lee Child"
+        ],
+        "description": "Sergeant Amy Callan and Lieutenant Caroline Cook have a lot in common. Both were army high-flyers. Both were acquainted with Jack Reacher. Both were forced to resign from the service. Now they're both dead.",
+        "categories": [
+          "Thriller"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=UGUahZnpa0MC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "150 SEK",
+        "news": false,
+        "amount": 8,
+        "favorite": false
+      }
+    },
+    {
+      "id": "PW3_EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Lady from the Sea",
+        "authors": [
+          "Henrik Ibsen"
+        ],
+        "description": "The Lady from the Sea\" is a play written by Henrik Ibsen, first performed in 1888. Set in a small Norwegian coastal town, the play explores themes of duty, freedom, and personal fulfillment.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=PW3_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "120 SEK",
+        "news": false,
+        "amount": 4,
+        "favorite": false
+      }
+    },
+    {
+      "id": "Ae2MBqG9bGkC",
+      "volumeInfo": {
+        "title": "The Light of Asia Or the Great Renunciation",
+        "authors": [
+          "Edwin Arnold"
+        ],
+        "description": "Being the Life and Teaching of Gautama, as Told in Verse by an Indian Buddhist.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=Ae2MBqG9bGkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "Free",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "E4DXD7Sk7WcC",
+      "volumeInfo": {
+        "title": "The Riverside Chaucer",
+        "authors": [
+          "Geoffrey Chaucer",
+          "Larry Dean Benson"
+        ],
+        "description": "A re-editing of F.N. Robinson's second edition of The works of Geoffrey Chaucer published in 1957 by the team of experts at the Riverside Institute who have greatly expanded the introductory material, explanatory notes, textual notes, bibliography and glossary.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=E4DXD7Sk7WcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "130 SEK",
+        "news": false,
+        "amount": 5,
+        "favorite": false
+      }
+    },
+    {
+      "id": "6ihZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Iliad & Odyssey",
+        "authors": [
+          "Homer"
+        ],
+        "description": "No home library is complete without the classics! Iliad & Odyssey brings together the two essential Greek epics from the poet Homer in an omnibus edition—a keepsake to be read and treasured.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=6ihZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "95 SEK",
+        "news": false,
+        "amount": 7,
+        "favorite": false
+      }
+    },
+    {
+      "id": "E_8VBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The World's Wife",
+        "authors": [
+          "Carol Ann Duffy"
+        ],
+        "description": "This unique collection of poems from the Poet Laureate, filled with her characteristic wit, is a feminist classic and a modern take on age-old mythology.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=E_8VBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "150 SEK",
+        "news": false,
+        "amount": 4,
+        "favorite": false
+      }
+    },
+    {
+      "id": "iChADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rosmersholm",
+        "authors": [
+          "Henrik Ibsen"
+        ],
+        "description": "Dramaet \"Rosmersholm\" fra 1886 anses af mange kritikere for at være Henrik Ibsens mesterværk. Det udspiller sig på en gammel herregård i det sydlige Norge.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=iChADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "110 SEK",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "4V5CDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Celebrating the Best of Urdu Poetry",
+        "authors": [
+          "Khushwant Singh"
+        ],
+        "description": "This definitive collection spans over 200 years of Urdu poetry, celebrating well-known and relatively unknown poets alike.",
+        "categories": [
+          "Poetry"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=4V5CDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "Free",
+        "news": false,
+        "amount": 2,
+        "favorite": false
+      }
+    },
+    {
+      "id": "dqSrAgAAQBAJ",
+      "volumeInfo": {
+        "title": "East Asia at the Center",
+        "authors": [
+          "Warren I. Cohen"
+        ],
+        "description": "Cohen charts the course of cultural, intellectual, economic, and political developments in East Asia--particularly China and Japan--from the beginning of recorded time to the present day.",
+        "categories": [
+          "History"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=dqSrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "200 SEK",
+        "news": false,
+        "amount": 4,
+        "favorite": false
+      }
+    },
+    {
+      "id": "b2wNAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Little Eyolf",
+        "authors": [
+          "Henrik Ibsen"
+        ],
+        "description": "A dramatic story of tragedy and human emotion, exploring themes of love, loss, and desire.",
+        "categories": [
+          "Children"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=b2wNAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "100 SEK",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "p_W4BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Olivia",
+        "authors": [
+          "Simon and Schuster"
+        ],
+        "description": "Join Olivia as she engages in various adventures, from dressing up to building sand castles, all with her imaginative flair.",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=p_W4BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "80 SEK",
+        "news": false,
+        "amount": 6,
+        "favorite": false
+      }
+    },
+    {
+      "id": "Eg9U9e_ICr8C",
+      "volumeInfo": {
+        "title": "WISC-IV Clinical Use and Interpretation",
+        "authors": [
+          "Aurelio Prifitera",
+          "Donald H. Saklofske",
+          "Lawrence G. Weiss"
+        ],
+        "description": "A guide on how to clinically interpret WISC-IV results to better understand cognitive functioning.",
+        "categories": [
+          "Computers"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=Eg9U9e_ICr8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "250 SEK",
+        "news": false,
+        "amount": 2,
+        "favorite": false
+      }
+    },
+    {
+      "id": "W9xs8B8hsEcC",
+      "volumeInfo": {
+        "title": "The Resilience of Language",
+        "authors": [
+          "Susan Goldin-Meadow"
+        ],
+        "description": "A study on how deaf children create language through gesture, providing insight into how all children learn language.",
+        "categories": [
+          "Family & Relationships"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=W9xs8B8hsEcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "180 SEK",
+        "news": false,
+        "amount": 1,
+        "favorite": false
+      }
+    },
+    {
+      "id": "4bn7XhMeBH8C",
+      "volumeInfo": {
+        "title": "Prince Caspian Movie Tie-in Edition (rack)",
+        "authors": [
+          "C. S. Lewis"
+        ],
+        "description": "The full original PRINCE CASPIAN novel, now with a movie cover and an 8-page movie still insert.",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=4bn7XhMeBH8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "price": "95 SEK",
+        "news": false,
+        "amount": 9,
+        "favorite": false
+      }
+    }
+  ]
+}
