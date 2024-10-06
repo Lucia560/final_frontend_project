@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "id": "oNY0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "There There",
+        "authors": [
+          "Tommy Orange"
+        ],
+        "description": "A wondrous and shattering award-winning novel that follows twelve characters from Native communities: all traveling to the Big Oakland Powwow, all connected to one another in ways they may not yet realize.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "160 SEK",
+        "news": false,
+        "amount": 9,
+        "favorite": false
+      }
+    },
+    {
+      "id": "WK_mPzxMFfoC",
+      "volumeInfo": {
+        "title": "Sunset Park",
+        "authors": [
+          "Paul Auster"
+        ],
+        "description": "Paul Auster's Sunset Park is set in the sprawling flatlands of Florida, where twenty-eight-year-old Miles is photographing the last lingering traces of families who have abandoned their houses due to debt or foreclosure.",
+        "categories": [
+          "Fiction"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=WK_mPzxMFfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "190 SEK",
+        "news": false,
+        "amount": 10,
+        "favorite": false
+      }
+    },
+    {
+      "id": "2sKCc9N27qoC",
+      "volumeInfo": {
+        "title": "Robinson Crusoe",
+        "authors": [
+          "Daniel Defoe"
+        ],
+        "description": "Storm, shipwreck, pirates, and mutiny are the timeless themes of this recreated classic. The action-packed story lines retain all the impact of the author's own words, while photos and narrative illustrations help readers to absorb the full flavor of the original novel. Full color. Copyright © Libri GmbH. All rights reserved.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=2sKCc9N27qoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "120 SEK",
+        "news": false,
+        "amount": 3,
+        "favorite": false
+      }
+    },
+    {
+      "id": "JKe8QgAACAAJ",
+      "volumeInfo": {
+        "title": "Nineteen Eighty-four",
+        "authors": [
+          "George Orwell"
+        ],
+        "description": "George Orwell's dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century, published with an introduction by Ben Pimlott in Penguin Modern Classics.",
+        "categories": [
+          "Classic"
+        ],
+        "imageLinks": {
+          "thumbnail": "http://books.google.com/books/content?id=JKe8QgAACAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "price": "150 SEK",
+        "news": false,
+        "amount": 8,
+        "favorite": false
+      }
+    },
+    {
       "id": "J_18AAAAIAAJ",
       "volumeInfo": {
         "title": "Crime and Punishment",
@@ -123,11 +203,11 @@
     {
       "id": "L88qEAAAQBAJ",
       "volumeInfo": {
-        "title": "SHERLOCK HOLMES - THE VALLEY OF FEAR",
+        "title": "Sherlock Holmes - the valley of fear",
         "authors": [
           "ARTHUR CONAN DOYLE"
         ],
-        "description": "SHERLOCK HOLMES – THE VALLEY OF FEAR, is the 4th and final novel written by Arthur Conan Doyle. This book is complete, unabridged and was originally published in 1915.",
+        "description": "Sherlock Holmes - the valley of fear, is the 4th and final novel written by Arthur Conan Doyle. This book is complete, unabridged and was originally published in 1915.",
         "categories": [
           "Fiction"
         ],
@@ -159,87 +239,7 @@
         "amount": 1,
         "favorite": false
       }
-    },
-    {
-      "id": "oNY0DwAAQBAJ",
-      "volumeInfo": {
-        "title": "There There",
-        "authors": [
-          "Tommy Orange"
-        ],
-        "description": "A wondrous and shattering award-winning novel that follows twelve characters from Native communities: all traveling to the Big Oakland Powwow, all connected to one another in ways they may not yet realize.",
-        "categories": [
-          "Fiction"
-        ],
-        "imageLinks": {
-          "thumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "price": "160 SEK",
-        "news": false,
-        "amount": 9,
-        "favorite": false
-      }
-    },
-    {
-      "id": "WK_mPzxMFfoC",
-      "volumeInfo": {
-        "title": "Sunset Park",
-        "authors": [
-          "Paul Auster"
-        ],
-        "description": "Paul Auster's Sunset Park is set in the sprawling flatlands of Florida, where twenty-eight-year-old Miles is photographing the last lingering traces of families who have abandoned their houses due to debt or foreclosure.",
-        "categories": [
-          "Fiction"
-        ],
-        "imageLinks": {
-          "thumbnail": "http://books.google.com/books/content?id=WK_mPzxMFfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "price": "190 SEK",
-        "news": false,
-        "amount": 10,
-        "favorite": false
-      }
-    },
-    {
-      "id": "2sKCc9N27qoC",
-      "volumeInfo": {
-        "title": "Robinson Crusoe",
-        "authors": [
-          "Daniel Defoe"
-        ],
-        "description": "Storm, shipwreck, pirates, and mutiny are the timeless themes of this recreated classic. The action-packed story lines retain all the impact of the author's own words, while photos and narrative illustrations help readers to absorb the full flavor of the original novel. Full color. Copyright © Libri GmbH. All rights reserved.",
-        "categories": [
-          "Classic"
-        ],
-        "imageLinks": {
-          "thumbnail": "http://books.google.com/books/content?id=2sKCc9N27qoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "price": "120 SEK",
-        "news": false,
-        "amount": 3,
-        "favorite": false
-      }
-    },
-    {
-      "id": "JKe8QgAACAAJ",
-      "volumeInfo": {
-        "title": "Nineteen Eighty-four",
-        "authors": [
-          "George Orwell"
-        ],
-        "description": "George Orwell's dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century, published with an introduction by Ben Pimlott in Penguin Modern Classics.",
-        "categories": [
-          "Classic"
-        ],
-        "imageLinks": {
-          "thumbnail": "http://books.google.com/books/content?id=JKe8QgAACAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "price": "150 SEK",
-        "news": false,
-        "amount": 8,
-        "favorite": false
-      }
-    },
+    },    
     {
       "id": "gu78JKzMB2cC",
       "volumeInfo": {
