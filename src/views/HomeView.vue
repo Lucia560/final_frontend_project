@@ -7,7 +7,7 @@ import BooksView from '@/components/BooksView.vue';
   <main>    
     <topplista_toplay/>
     <br />
-    <BooksView />    
+     
 
   </main>
 </template>

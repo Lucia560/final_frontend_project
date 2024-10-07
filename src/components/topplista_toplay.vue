@@ -1,82 +1,222 @@
-
 <template>
-    <div id="lista_title" >
-        <h2 class="topplista-title">Utforska vår topplista</h2> 
-    </div>
-   
-    <div id="topplistaCarousel" class="carousel slide" data-bs-ride="carousel">
-     <div class="carousel-inner">
-        <!-- First Slide -->
-        <div class="carousel-item active">
-          <div class="images-container">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 1">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 2">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 3">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 4">
-          </div>
-        </div>
-        <!-- Second Slide -->
-        <div class="carousel-item">
-          <div class="images-container">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 5">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 6">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 7">
-            <img src="@/assets/theWitcher.png" class="img-fluid" alt="Image 8">
-          </div>
-        </div>
-        <!-- Additional slides can be added similarly -->
-      </div>
-      <!-- Controls -->
-      <button class="carousel-control-prev" type="button" data-bs-target="#topplistaCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#topplistaCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div>
-
-  </template>
-  
-  
-  <style scoped>
+   <div class="top-list-wrapper"> <!-- Flex container -->
+    <h2 class="topplista-title">Utforska vår <span style="font-weight: bold" >Topplista</span></h2> 
  
- .images-container {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 5px; /* Adjust the gap as needed */
-}
 
-.images-container img {
-  width: calc(25% - 5px); /* Increase the width percentage for fewer images per slide */
-  height: auto; /* Maintains the aspect ratio */
-  flex: 0 0 auto; /* Prevents the image from growing or shrinking beyond its set width */
-}
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    
+  <div class="carousel-inner">
+     
+    <div class="carousel-item active">
+        
+     <div class="cards-wrapper">
+        <div class="card" style="width: 12em;">
+          <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+         </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
 
-#topplistaCarousel {
-  width: 100%; /* Ensures the carousel takes the full width of its container */
-  display: flex;
-  align-items: center;
-}
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+      
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"  alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
 
-#lista_titel{
-  width: 100%; /* Ensures the title takes full width */
-  text-align: left; /* Aligns the title to the left */
-  margin-bottom: 20px; /* Adds space below the title */
-}
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+
+
+   </div>
+    </div>
+    <div class="carousel-item">
+     <div class="cards-wrapper">
+        <div class="card" style="width: 12rem;">
+        <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png" alt="...">
+        </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"  alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+
+
+   </div>    
+    </div>
+    <div class="carousel-item">
+     <div class="cards-wrapper">
+
+        <div class="card" style="width: 12rem;">
+            <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"  alt="...">
+            </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
+
+<div class="card" style="width: 12rem;">
+    <div class="image-wrapper">
+  <img src="@/assets/theWitcher.png"   alt="...">
+    </div>
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <a href="#" class="btn btn-primary">Mer info</a>
+  </div>
+</div>
 
 
 
 
-  </style>
+
+     </div>
+      
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+   </div>
+</template>
+
   
-  
-  
+<style scoped>
+.top-list-wrapper {
+  display: flex;       /* Enables flexbox */
+  align-items: center; /* Vertically centers the items in the container */
+  justify-content: space-between; /* Spaces the title and carousel apart */
+  width: 100%;         /* Takes full width of its parent */
+  margin-top: 275px;
+}
 
+.topplista-title {
+  flex: 1;             /* Allows the title to grow and take necessary space */
+  margin-right: 20px;  /* Optional: Adds some space between the title and the carousel */
+}
 
+#carouselExampleControls{
+  /* Reduces the maximum width of the carousel to 80% of its container */
+  margin-left: 200px; /* Centers or pushes the carousel based on the margin-right value */
+  flex: 3;             /* Allows the carousel to grow and take larger space */
+  max-width: 80%; 
+  }
+
+ .cards-wrapper{
+    display: flex;
+    justify-content: center; /* Ensures cards are centered within the carousel item */
+    flex-wrap: nowrap; /* Keeps all cards on a single line without wrapping */
+ }
+
+ .card{
+    margin: 0 .5em;
+    width: calc(100%/4);
+    margin: 10px; /* Adjusts margin for spacing between cards */
+    flex: 0 0 200px; /* Sets each card to have a flex-basis of 250px, adjust as needed */
+ }
+ .image-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 180px; /* Adjusts the height of the image container */
+    width: 100%; /* Uses the full width of the card for the image */
  
+ }
+
+ .image-wrapper img{
+   max-height:100%;
+   max-width: 100%;
+ }
+
+ </style>
+  
+  
+
 
 
 
