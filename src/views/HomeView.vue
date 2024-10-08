@@ -7,7 +7,7 @@ import BooksAll from '@/components/BooksAll.vue';
   <main>    
     <topplista_toplay/>
     <br />
-    <BooksAll />     
+   <BooksAll/>   
 
   </main>
 </template>
